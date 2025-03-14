@@ -17,6 +17,9 @@ The materials provided here offer a comprehensive view of the challenges identif
 3. **Table with Challenges and Sources**  
    A table listing the 30 identified challenges with corresponding sources from the reviewed papers.  
    *File: AppendixA2_TablesOfSourcesForPPCChallenges.pdf*
+4. **Reference List of Sources**
+   A PDF file with the references of the reviewed articles.
+   *File: References.pdf*
 
 ## Future Vision
 
