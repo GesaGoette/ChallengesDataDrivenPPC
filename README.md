@@ -8,15 +8,15 @@ The materials provided here offer a comprehensive view of the challenges identif
 
 1. **Graphical Abstract**  
    A visual summary of the challenge categories in data-driven PPC systems.  
-   *File: `graphical_abstract.pdf`*
+   *File: ChallengesDataDrivenPPC_Overview.png*
 
 2. **Review Overview on Timeline**  
    A timeline categorizing the 51 reviewed articles by publication date and focus (general reviews vs. specific reviews).  
-   *File: `review_overview_timeline.pdf`*
+   *File: AppendixA1_OverviewOfReviewsOnDataDrivenPPC.pdf*
 
 3. **Table with Challenges and Sources**  
    A table listing the 30 identified challenges with corresponding sources from the reviewed papers.  
-   *File: `challenges_and_sources_table.pdf`*
+   *File: AppendixA2_TablesOfSourcesForPPCChallenges.pdf*
 
 ## Future Vision
 
